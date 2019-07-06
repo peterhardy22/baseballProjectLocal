@@ -18,16 +18,16 @@ This project will allow us to visually demonstrate both the concentration and th
 
 ### Player Birth Map:
 
-![birthmap](baseball/media/birthmap.gif)
+![birthmap](Baseball/media/birthmap.gif)
 
 ### Player Death Map:
 
-![deathmap](baseball/media/deathmap.gif)
+![deathmap](Baseball/media/deathmap.gif)
 
 
 ### Player Chart:
 
-![playerchart](baseball/media/playerchart.gif)
+![playerchart](Baseball/media/playerchart.gif)
 
 
 
